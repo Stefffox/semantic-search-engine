@@ -1,0 +1,32 @@
+{
+  "_header": {
+    "num_chunks": 3,
+    "embedding_dim": 768,
+    "dimension": 768,
+    "class": "OllamaEmbeddingProvider",
+    "indexed_at": "2026-09-23T14:52:37.400297"
+  },
+  "chunks": [
+    {
+      "text": "La photosynthèse est le processus bioénergétique qui permet à des organismes (comme les bactéries photosynthétiques, les cyanobactéries, les algues et les plantes) de synthétiser de la matière organique en utilisant l'énergie lumineuse. C'est grâce à la photosynthèse que les plantes absorbent le dioxyde de carbone (CO2) et rejettent du dioxygène (O2), un élément essentiel à la vie sur Terre. Ce processus se déroule principalement dans les chloroplastes, des organites cellulaires contenant de la chlorophylle, le pigment vert qui capte la lumière du soleil. La cellule est l'unité biologique structurelle et fonctionnelle fondamentale de tous les êtres vivants. Chez les organismes eucaryotes (comme les plantes et les animaux), la cellule possède un noyau contenant l'ADN (l'information génétique) et de nombreux autres organites (mitochondries, réticulum endoplasmique) baignant dans le cytoplasme. Les mitochondries sont souvent surnommées les \"centrales énergétiques\" de la cellule, car elles produisent la majeure partie de l'ATP (adénosine triphosphate), l'énergie chimique nécessaire au fonctionnement cellulaire. Le système immunitaire protège l'organisme contre les infections et les maladies. Il est composé d'un réseau complexe de cellules, de tissus et d'organes, dont les globules blancs (leucocytes). Lorsqu'un agent pathogène (virus ou bactérie) pénètre dans le corps, le système immunitaire le reconnaît grâce aux antigènes présents à sa surface et déploie des anticorps pour le neutraliser. La mémoire immunitaire permet au corps de réagir plus rapidement s'il est confronté à nouveau au même pathogène, ce qui est le principe fondamental de la vaccination.",
+      "start_word": 0,
+      "end_word": 239,
+      "chunk_index": 0,
+      "source": "biologie.txt"
+    },
+    {
+      "text": "L'exploration spatiale a véritablement débuté le 4 octobre 1957 lorsque l'Union Soviétique a lancé Spoutnik 1, le premier satellite artificiel à orbiter autour de la Terre. Cet événement a marqué le début de la \"course à l'espace\" entre les États-Unis et l'URSS pendant la guerre froide. Quelques années plus tard, en 1961, le cosmonaute Youri Gagarine est devenu le premier être humain à voyager dans l'espace. Le point culminant de cette compétition fut la mission américaine Apollo 11 en juillet 1969, lorsque Neil Armstrong et Buzz Aldrin furent les premiers hommes à marcher sur la Lune. Le système solaire est constitué de notre étoile, le Soleil, et de tous les objets célestes qui gravitent autour de lui sous l'effet de sa gravité. Il comprend huit planètes principales : quatre planètes telluriques internes (Mercure, Vénus, la Terre et Mars) et quatre planètes géantes externes (Jupiter et Saturne qui sont des géantes gazeuses, Uranus et Neptune qui sont des géantes de glaces). Il abrite également des planètes naines comme Pluton, ainsi que des millions d'astéroïdes et de comètes. Les trous noirs sont des régions de l'espace où le champ gravitationnel est si intense qu'aucune matière ni aucun rayonnement (pas même la lumière) ne peut s'en échapper. Ils se forment généralement lorsqu'une étoile massive s'effondre sur elle-même à la fin de son cycle de vie. Au centre d'un trou noir se trouve la \"singularité\", où la matière est concentrée en un point de densité infinie. La frontière invisible délimitant la zone de non-retour autour du trou noir est appelée \"l'horizon des événements\". La première véritable photographie d'un trou noir a été dévoilée par l'Event Horizon Telescope en 2019.",
+      "start_word": 0,
+      "end_word": 275,
+      "chunk_index": 0,
+      "source": "espace.txt"
+    },
+    {
+      "text": "La Révolution française est une période de bouleversements sociaux et politiques majeurs en France, qui a débuté en 1789 avec la prise de la Bastille le 14 juillet, et s'est achevée en 1799 avec le coup d'État du 18 Brumaire de Napoléon Bonaparte. Elle a mis fin à l'Ancien Régime, caractérisé par la monarchie absolue et les privilèges de la noblesse et du clergé. Elle a donné naissance à la Déclaration des droits de l'homme et du citoyen, proclamant l'égalité de tous les citoyens devant la loi et les libertés fondamentales. L'Empire romain est l'un des empires les plus vastes et les plus durables de l'histoire humaine. À son apogée, sous le règne de l'empereur Trajan au IIe siècle apr. J.-C., il s'étendait sur trois continents, de la Grande-Bretagne à l'Égypte, et de l'Espagne à la Mésopotamie. Rome a laissé un héritage durable dans les domaines de la langue (le latin), du droit romain, de l'architecture (aqueducs, amphithéâtres) et des infrastructures. La chute de l'Empire romain d'Occident en 476 marque traditionnellement le début du Moyen Âge en Europe. La Renaissance est un vaste mouvement culturel et artistique qui a débuté en Italie au XIVe siècle avant de s'étendre à toute l'Europe. Elle se caractérise par un renouveau de l'intérêt pour l'Antiquité gréco-romaine, le développement de l'humanisme qui place l'homme au centre de l'univers, et d'immenses progrès dans les arts et les sciences. Léonard de Vinci, inventeur, artiste et scientifique, incarne parfaitement l'esprit de cette époque. L'invention de l'imprimerie par Johannes Gutenberg en 1450 a joué un rôle crucial dans la diffusion rapide des idées de la Renaissance.",
+      "start_word": 0,
+      "end_word": 267,
+      "chunk_index": 0,
+      "source": "histoire.txt"
+    }
+  ]
+}

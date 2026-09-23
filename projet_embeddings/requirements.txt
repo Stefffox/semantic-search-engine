@@ -1,0 +1,13 @@
+# requirements.txt
+# -----------------
+# Dépendances du projet projet_embeddings
+#
+# Seule dépendance externe réelle : numpy, pour la persistance
+# binaire des vecteurs (np.save / np.load) et la conversion
+# list[list[float]] → np.ndarray.
+#
+# Tout le reste (similarité cosinus, TF-IDF, chunking, API Ollama)
+# est implémenté en Python pur avec la bibliothèque standard.
+
+numpy>=1.24
+flask>=3.0
